@@ -1,2 +1,1 @@
-# Text-To-Speech-Converter
-A Text-to-Speech (TTS) Converter Project in Python using Tkinter and pyttsx3 creates an application that allows users to input text and have it read aloud by the computer.
+A Text-to-Speech (TTS) Converter Project in Python using Tkinter and pyttsx3 (or gTTS for online capability) creates an application that allows users to input text and have it read aloud by the computer. This project involves creating a graphical user interface (GUI) where users can enter text, choose preferences like voice gender and speech speed, and then convert the text into spoken words through their speakers. 
